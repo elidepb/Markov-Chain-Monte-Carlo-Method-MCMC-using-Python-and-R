@@ -12,14 +12,8 @@ This repository delves into the **Markov Chain Monte Carlo (MCMC)** method, a po
 ### 🎯 **What You’ll Learn**  
 - Theoretical foundations of MCMC methods.  
 - How to apply MCMC in Python and R for data analysis.  
-- Best practices for implementing MCMC in research and projects.  
-
-### 🚀 **Get Started**  
-Clone the repo and start exploring:  
-```bash
-git clone https://github.com/yourusername/mcmc-method.git
-```
-
+- Best practices for implementing MCMC in research and projects.
+  
 ---
 
 Perfect for researchers, data scientists, and anyone looking to deepen their understanding of probabilistic modeling.  
